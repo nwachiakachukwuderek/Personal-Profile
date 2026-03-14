@@ -1,3 +1,6 @@
+'use client'
+import React from "react"
+
 export default function Contact() {
     return (
         <main className="min-h-screen bg-slate-50 pt-32 pb-16 px-4 sm:px-6 lg:px-12 selection:bg-brand-red selection:text-white">
