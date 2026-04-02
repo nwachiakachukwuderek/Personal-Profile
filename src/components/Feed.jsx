@@ -171,13 +171,13 @@ export default function Feed() {
                         >
                             {/* Decorative side border */}
                             <div
-                                className={`absolute left-0 top-0 bottom-0 w-1 ${item.category === "Talk" ? "bg-brand-red" : "bg-brand-blue"
+                                className={`absolute left-0 top-0 bottom-0 w-1 ${item.category === "Talk" || 'Interview' || 'Speech' ? "bg-brand-red" : "bg-brand-blue"
                                     }`}
                             ></div>
 
                             <div className="flex justify-between items-start mb-3">
                                 <span
-                                    className={`inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider ${item.category === "Talk"
+                                    className={`inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider ${item.category === "Talk" || 'Interview' || 'Speech'
                                         ? "bg-red-50 text-brand-red"
                                         : "bg-blue-50 text-brand-blue"
                                         }`}
@@ -192,7 +192,7 @@ export default function Feed() {
                                     rel="noopener noreferrer"
                                     aria-label="Open link"
                                 >
-                                    {item.category === "Talk" ? (
+                                    {item.category === "Talk" || 'Interview' || 'Speech' ? (
                                         <Video className="w-4 h-4" />
                                     ) : (
                                         <LinkIcon className="w-4 h-4" />
@@ -213,7 +213,7 @@ export default function Feed() {
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                {item.category === "Talk" ? "Watch Video" : "Read Article"}
+                                {item.category === "Talk" || 'Interview' || 'Speech' ? "Watch Video" : "Read Article"}
                                 <svg className="ml-1 w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                                 </svg>

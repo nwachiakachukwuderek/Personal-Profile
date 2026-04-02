@@ -267,31 +267,31 @@ var _s = __turbopack_context__.k.signature();
 const MOCK_DATA = [
     {
         id: 1,
-        title: "Understanding the Electoral Process in Nigeria",
-        category: "Article",
-        context: "A comprehensive guide to how voting works and what to expect during the Presidential election.",
-        link: "https://example.com/article-1"
+        title: "A CHAT WITH PRINCE ADEWOLE ADEBAYO",
+        category: "Talk",
+        context: " The discussion focuses on the state of democracy in Nigeria, the role of the opposition, and the path forward for the country ahead of the 2027 elections.",
+        link: "https://youtu.be/KdKQy0yI-dM?si=EXyZFbH4tKpVHDOe"
     },
     {
         id: 2,
-        title: "Key Candidates Debate: Economic Policies",
-        category: "Talk",
-        context: "Watch the top candidates discuss their plans to revitalize the nation's economy.",
-        link: "https://youtube.com/watch?v=mock1"
+        title: "Prince Adewole Adebayo's Full Speech at J9C 13th Anniversary Lecture",
+        category: "Speech",
+        context: "Prince Adewole Adebayo discusses the nature of economic reform in Nigeria",
+        link: "https://youtu.be/SsHkcJbVNRg?si=0C-A_TdXdjngsAOJ"
     },
     {
         id: 3,
-        title: "Youth Participation in 2027 Elections",
-        category: "Article",
-        context: "Analyzing the potential impact of youth voter turnout on the upcoming election results.",
-        link: "https://example.com/article-2"
+        title: "THE PRESS ENGAGES PRINCE ADEWOLE ADEBAYO IN ILORIN, KWARA STATE",
+        category: "Interview",
+        context: "Prince Adewole Adebayo, the SDP presidential candidate in the 2023 general election, engages with journalists in Ilorin, Kwara State to discuss pressing national issues. He emphasizes that the movement of politicians between political parties is less important than addressing the suffering and hunger of the masses",
+        link: "https://youtu.be/gfTJhm2O-uU?si=358M1AceIdkEHKm2"
     },
     {
         id: 4,
-        title: "Security Measures for Polling Units",
-        category: "Article",
-        context: "INEC outlines the security protocols that will be deployed across nationwide polling stations.",
-        link: "https://example.com/article-3"
+        title: "Alleged Coup: Nothing Good Can Come Out Of Military Rule",
+        category: "Interview",
+        context: " Prince Adewole Adebayo, the 2023 presidential candidate for the Social Democratic Party (SDP), discussing the current state of Nigeria under the administration of President Bola Tinubu.",
+        link: "https://www.youtube.com/watch?v=dESO9j7d0RI"
     },
     {
         id: 5,
@@ -302,10 +302,94 @@ const MOCK_DATA = [
     },
     {
         id: 6,
-        title: "Historical Analysis of Past Elections",
+        title: "I Have Informed The SDP That I Will Be Running For the Presidency Again in 2027 – Adebayo",
+        category: "Interview",
+        context: "Prince Adewole Adebayo, the 2023 presidential candidate for the Social Democratic Party (SDP), discusses his plans for the 2027 election and his vision for Nigeria..",
+        link: "https://www.youtube.com/watch?v=EDsaiPhwLUw"
+    },
+    {
+        id: 7,
+        title: "Unraveling the Enigma of Adewole Adebayo @ 50",
         category: "Article",
-        context: "An overview of voting patterns and historical trends in previous Nigerian presidential elections.",
-        link: "https://example.com/article-4"
+        context: "The piece celebrates Adewole Adebayo’s 50th birthday by highlighting his mentorship, philanthropy, media initiatives, and enduring commitment to uplifting others.",
+        link: "https://www.vanguardngr.com/2022/01/unraveling-the-enigma-of-adewole-adebayo-50/"
+    },
+    {
+        id: 8,
+        title: "Impact positively on Nigerians before leaving office, Adewole tells Buhari",
+        category: "Article",
+        context: "This piece essentially combines criticism of Buhari’s governance with Adebayo’s vision for Nigeria’s future, positioning him as a reform-minded leader.",
+        link: "https://blueprint.ng/impact-positively-on-nigerians-before-leaving-office-adewole-tells-buhari/"
+    },
+    {
+        id: 9,
+        title: "Nigeria @ 61: Adebayo proffers solution to nation’s electoral challenges at National Political Summit",
+        category: "Article",
+        context: "Adebayo’s solution emphasizes citizen involvement, trust-building, and reducing reliance on technical quick fixes as the path to credible elections.",
+        link: "https://www.vanguardngr.com/2021/10/nigeria-61-adebayo-proffers-solution-to-nations-electoral-challenges-at-national-political-summit/"
+    },
+    {
+        id: 10,
+        title: "Adewole Adebayo, Segun Mimiko, others speak at Tanko Yinusa’s 50th birthday lecture",
+        category: "Article",
+        context: "The article covers a public lecture held in Abuja to celebrate Dr. Tanko Yinusa’s 50th birthday, where prominent figures including Adewole Adebayo, Segun Mimiko, Senator Ben Obi, and others spoke.",
+        link: "https://www.vanguardngr.com/2021/10/adewole-adebayo-segun-mimiko-others-speak-at-tanko-yinusas-50th-birthday-lecture/"
+    },
+    {
+        id: 11,
+        title: "SDP's Adebayo Condemns Tinubu's Handling Of Insecurity In Nigeria",
+        category: "Interview",
+        context: "This edition of Politics Today on Channels Television provides a comprehensive update on the rising insecurity in Nigeria",
+        link: "https://www.youtube.com/live/4m0jExZ9XQ4"
+    },
+    {
+        id: 12,
+        title: "NCF ‘ll offer viable solutions to get Nigeria out of the woods, says Adewole Adebayo",
+        category: "Article",
+        context: "The article from Vanguard News reports on Adewole Adebayo, a member of the National Consultative Front (NCF), who emphasized that the group aims to provide viable solutions to Nigeria’s challenges rather than just engage in politics.",
+        link: "https://www.vanguardngr.com/2021/12/ncf-ll-offer-viable-solutions-to-get-nigeria-out-of-the-woods-says-adewole-adebayo/"
+    },
+    {
+        id: 13,
+        title: "2023: Jega, Moghalu, Agbakoba, Ezekwesili, Utomi, Other Prominent Nigerians Launch Political Coalition",
+        category: "Article",
+        context: "The page you’re viewing reports on the launch of a major political coalition in Nigeria ahead of the 2023 elections.",
+        link: "https://www.channelstv.com/2021/10/07/jega-moghalu-agbakoba-ezekwesili-utomi-other-prominent-nigerians-launch-political-coalition/"
+    },
+    {
+        id: 14,
+        title: "Barrister Adewole Adebayo charges Nigerians for collective fulfillment as key solution to challenges",
+        category: "Article",
+        context: "The article highlights Barrister Adewole Adebayo’s call for Nigerians to embrace collective fulfillment as a solution to the country’s pressing challenges.",
+        link: "https://web.archive.org/web/20230209130036/https://www.empiregist.com/barrister-adewole-adebayo-charges-nigerians-for-collective-fulfillment-as-key-solution-to-challenges/"
+    },
+    {
+        id: 15,
+        title: "Ondo-Born Prince Adewole Adebayo Declares Ambition For President",
+        category: "Article",
+        context: "Prince Adewole Adebayo, an Ondo-born lawyer, publicly declared his ambition to run for Nigeria’s presidency in the 2023 elections during a visit to the Alaafin of Oyo, Oba Lamidi Adeyemi III, at his coronation anniversary.",
+        link: "https://penangle.com/2023-build-up-ondo-born-prince-adewole-adebayo-declares-ambition-for-president/"
+    },
+    {
+        id: 16,
+        title: "Petrol Price Will Still Go Up, Conserve Your Energy', Adewole Tells Angry Nigerians",
+        category: "Talk",
+        context: "The 2023 presidential candidate for the Social Democratic Party (SDP), analyzes the current state of petrol pricing in Nigeria following the removal of fuel subsidies.",
+        link: "https://www.youtube.com/watch?v=BwfnFrr9oS4"
+    },
+    {
+        id: 17,
+        title: "Abuja-based TV CEO declares for Presidency",
+        category: "Article",
+        context: "Adebayo criticized the political elite’s portrayal of Muhammadu Buhari as a “messiah,” saying Buhari’s poor performance revealed those promises as propaganda.",
+        link: "https://punchng.com/2023-abuja-based-tv-ceo-declares-for-presidency/?amp"
+    },
+    {
+        id: 18,
+        title: "Lawyer Faults Falana over Alleged Diversion of Remittance on CERPAC Project",
+        category: "Article",
+        context: "Adebayo criticized the political elite’s portrayal of Muhammadu Buhari as a “messiah,” saying Buhari’s poor performance revealed those promises as propaganda.",
+        link: "https://punchng.com/2023-abuja-based-tv-ceo-declares-for-presidency/?amp"
     }
 ];
 function Feed() {
@@ -326,12 +410,12 @@ function Feed() {
                                 className: "h-5 w-5 text-slate-400 group-focus-within:text-brand-blue transition-colors"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Feed.jsx",
-                                lineNumber: 68,
+                                lineNumber: 152,
                                 columnNumber: 25
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/Feed.jsx",
-                            lineNumber: 67,
+                            lineNumber: 151,
                             columnNumber: 21
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -342,18 +426,18 @@ function Feed() {
                             onChange: (e)=>setSearchQuery(e.target.value)
                         }, void 0, false, {
                             fileName: "[project]/src/components/Feed.jsx",
-                            lineNumber: 70,
+                            lineNumber: 154,
                             columnNumber: 21
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/Feed.jsx",
-                    lineNumber: 66,
+                    lineNumber: 150,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/Feed.jsx",
-                lineNumber: 65,
+                lineNumber: 149,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -362,10 +446,10 @@ function Feed() {
                         className: "bg-white rounded-2xl p-6 shadow-sm border border-slate-100 hover:shadow-md transition-all duration-300 hover:-translate-y-1 group relative overflow-hidden",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: `absolute left-0 top-0 bottom-0 w-1 ${item.category === "Talk" ? "bg-brand-red" : "bg-brand-blue"}`
+                                className: `absolute left-0 top-0 bottom-0 w-1 ${("TURBOPACK compile-time truthy", 1) ? "bg-brand-red" : "TURBOPACK unreachable"}`
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Feed.jsx",
-                                lineNumber: 89,
+                                lineNumber: 173,
                                 columnNumber: 29
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -376,7 +460,7 @@ function Feed() {
                                         children: item.category
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Feed.jsx",
-                                        lineNumber: 95,
+                                        lineNumber: 179,
                                         columnNumber: 33
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -389,24 +473,24 @@ function Feed() {
                                             className: "w-4 h-4"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Feed.jsx",
-                                            lineNumber: 112,
+                                            lineNumber: 196,
                                             columnNumber: 41
                                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Link$3e$__["Link"], {
                                             className: "w-4 h-4"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Feed.jsx",
-                                            lineNumber: 114,
+                                            lineNumber: 198,
                                             columnNumber: 41
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Feed.jsx",
-                                        lineNumber: 104,
+                                        lineNumber: 188,
                                         columnNumber: 33
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Feed.jsx",
-                                lineNumber: 94,
+                                lineNumber: 178,
                                 columnNumber: 29
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -414,7 +498,7 @@ function Feed() {
                                 children: item.title
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Feed.jsx",
-                                lineNumber: 119,
+                                lineNumber: 203,
                                 columnNumber: 29
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -422,7 +506,7 @@ function Feed() {
                                 children: item.context
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Feed.jsx",
-                                lineNumber: 122,
+                                lineNumber: 206,
                                 columnNumber: 29
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -444,24 +528,24 @@ function Feed() {
                                             d: "M9 5l7 7-7 7"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Feed.jsx",
-                                            lineNumber: 134,
+                                            lineNumber: 218,
                                             columnNumber: 37
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Feed.jsx",
-                                        lineNumber: 133,
+                                        lineNumber: 217,
                                         columnNumber: 33
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Feed.jsx",
-                                lineNumber: 126,
+                                lineNumber: 210,
                                 columnNumber: 29
                             }, this)
                         ]
                     }, item.id, true, {
                         fileName: "[project]/src/components/Feed.jsx",
-                        lineNumber: 84,
+                        lineNumber: 168,
                         columnNumber: 25
                     }, this)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "text-center py-16 bg-white rounded-2xl border border-slate-100 border-dashed",
@@ -472,12 +556,12 @@ function Feed() {
                                 className: "h-8 w-8 text-slate-300"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Feed.jsx",
-                                lineNumber: 142,
+                                lineNumber: 226,
                                 columnNumber: 29
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/Feed.jsx",
-                            lineNumber: 141,
+                            lineNumber: 225,
                             columnNumber: 25
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -485,7 +569,7 @@ function Feed() {
                             children: "No results found"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Feed.jsx",
-                            lineNumber: 144,
+                            lineNumber: 228,
                             columnNumber: 25
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -497,24 +581,24 @@ function Feed() {
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Feed.jsx",
-                            lineNumber: 145,
+                            lineNumber: 229,
                             columnNumber: 25
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/Feed.jsx",
-                    lineNumber: 140,
+                    lineNumber: 224,
                     columnNumber: 21
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/Feed.jsx",
-                lineNumber: 81,
+                lineNumber: 165,
                 columnNumber: 13
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/Feed.jsx",
-        lineNumber: 63,
+        lineNumber: 147,
         columnNumber: 9
     }, this);
 }
